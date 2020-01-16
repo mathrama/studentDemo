@@ -21,7 +21,7 @@ public class StudentDemo {
     public StudentDemo(String givenName,int n)
     {
         name=givenName;
-        sid = n;
+        studentId = n;
     }
     /**
      * @return the name
